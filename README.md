@@ -593,6 +593,8 @@ Thank you for your help!
 - [Commandant](https://github.com/Carthage/Commandant)
 - [FileKit](https://github.com/nvzqz/FileKit)
 - [SourceKitten](https://github.com/jpsim/SourceKitten)
+- [SwiftSyntax](https://github.com/apple/swift-syntax)
+- [StaticInternalSwiftSyntaxParser](https://github.com/keith/StaticInternalSwiftSyntaxParser)
 
 ## License
 Cuckoo is available under the [MIT License](LICENSE).

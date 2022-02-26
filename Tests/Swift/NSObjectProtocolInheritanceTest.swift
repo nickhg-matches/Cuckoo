@@ -1,10 +1,3 @@
-//
-//  NSObjectProtocolInheritanceTest.swift
-//  Cuckoo
-//
-//  Created by Shoto Kobayashi on 04/09/2022.
-//
-
 import XCTest
 
 class NSObjectProtocolTest: XCTestCase {

@@ -1,10 +1,3 @@
-//
-//  Dictionary+matchersTest.swift
-//  Cuckoo
-//
-//  Created by Matyáš Kříž on 05/09/2019.
-//
-
 import XCTest
 import Cuckoo
 

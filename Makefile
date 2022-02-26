@@ -2,6 +2,9 @@
 
 dev:
 	(killall Xcode || true)
+	# Unzip SwiftSyntax XCFramework.
+	pushd Generator; unzip -o lib_InternalSwiftSyntaxParser.xcframework.zip; popd
+	# Generate Xcode structure.
 	tuist generate --no-open
 	# Use Bundler if available, otherwise just call system-wide CocoaPods.
 	if ! command -v bundle &> /dev/null; then bundle install && bundle exec pod install; else pod install; fi

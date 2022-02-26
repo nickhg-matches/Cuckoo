@@ -1,11 +1,3 @@
-//
-//  StubThrowingFunctionTest.swift
-//  Cuckoo
-//
-//  Created by Filip Dolnik on 04.07.16.
-//  Copyright © 2016 Brightify. All rights reserved.
-//
-
 import XCTest
 @testable import Cuckoo
 

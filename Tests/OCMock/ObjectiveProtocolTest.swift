@@ -1,10 +1,3 @@
-//
-//  ObjectiveProtocolTest.swift
-//  Cuckoo+OCMock_iOSTests
-//
-//  Created by Matyáš Kříž on 28/05/2019.
-//
-
 import XCTest
 import Cuckoo
 

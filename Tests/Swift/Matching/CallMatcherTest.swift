@@ -1,11 +1,3 @@
-//
-//  CallMatcherTest.swift
-//  Cuckoo
-//
-//  Created by Filip Dolnik on 05.07.16.
-//  Copyright © 2016 Brightify. All rights reserved.
-//
-
 import XCTest
 import Cuckoo
 

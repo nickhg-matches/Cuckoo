@@ -1,11 +1,3 @@
-//
-//  FailTest.swift
-//  Cuckoo
-//
-//  Created by Filip Dolnik on 06.07.16.
-//  Copyright © 2016 Brightify. All rights reserved.
-//
-
 import XCTest
 @testable import Cuckoo
 

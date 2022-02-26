@@ -1,10 +1,3 @@
-//
-//  GenericMethodClass.swift
-//  Cuckoo
-//
-//  Created by Matyáš Kříž on 14/05/2019.
-//
-
 import Foundation
 
 // there was a bug with "where" clauses incorrectly matching, this class is used to test it

@@ -1,10 +1,3 @@
-//
-//  GenericProtocolTest.swift
-//  Cuckoo
-//
-//  Created by Matyáš Kříž on 26/11/2018.
-//
-
 import XCTest
 import Cuckoo
 
