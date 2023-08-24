@@ -14,7 +14,8 @@ let package = Package(
         .target(
             name: "Cuckoo",
             dependencies: [],
-            path: "Source"
+            path: "Source",
+            linkerSettings: [.linkedFramework("XCTest")],
         ),
         .testTarget(
             name: "CuckooTests",
